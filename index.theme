@@ -1,12 +1,12 @@
 Type=X-GNOME-Metatheme
 [Desktop Entry]
-Name=Tokyonight-Dark
-Comment=An Flat Gtk+ theme based on Elegant Design
+Name=Tokyonight-Night
+Comment=A Minimal Gtk theme designed for WMs
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Tokyonight-Dark
-MetacityTheme=Tokyonight-Dark
+GtkTheme=Tokyonight-Night
+MetacityTheme=Tokyonight-Night
 IconTheme=Tela-circle-Dark
-CursorTheme=Tokyonight-cursors
-ButtonLayout=close,minimize,maximize:menu
+CursorTheme=Bibata-Modern-Ice
+ButtonLayout=:
