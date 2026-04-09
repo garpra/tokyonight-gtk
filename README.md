@@ -48,7 +48,7 @@ gsettings set org.gnome.desktop.interface gtk-theme "Tokyonight-Night"
 nwg-look
 ```
 
-Select **Tokyonight-Dark** from the theme list and apply.
+Select **Tokyonight-Night** from the theme list and apply.
 
 **Manual config (`~/.config/gtk-3.0/settings.ini`):**
 
